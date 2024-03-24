@@ -1,1 +1,1 @@
-This is the source code to Chenyang QI's public academic website: https://chenyangqiqi.github.io
+This is the source code to Yuchen Yan's homepage: https://chenyangqiqi.github.io
